@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Bye there???
+          Text change by feature branch!
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          I was changed on the Feature branch
+          Learn React
         </a>
       </header>
     </div>
